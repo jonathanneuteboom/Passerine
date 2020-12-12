@@ -1,0 +1,524 @@
+Witkopeend	Oxyura leucocephala
+Knobbelzwaan	Cygnus olor
+Kleine Zwaan	Cygnus bewickii
+Wilde Zwaan	Cygnus cygnus
+Witbuikrotgans	Branta hrota
+Rotgans	Branta bernicla
+Zwarte Rotgans	Branta nigricans
+Roodhalsgans	Branta ruficollis
+Brandgans	Branta leucopsis
+Kleine Canadese Gans	Branta hutchinsii
+Sneeuwgans	Anser caerulescens
+Ross' Gans	Anser rossii
+Grauwe Gans	Anser anser
+Taigarietgans	Anser fabalis
+Toendrarietgans	Anser serrirostris
+Kleine Rietgans	Anser brachyrhynchus
+Kolgans	Anser albifrons
+Dwerggans	Anser erythropus
+IJseend	Clangula hyemalis
+Koningseider	Somateria spectabilis
+Eider	Somateria mollissima
+Stellers Eider	Polysticta stelleri
+Brilzee-eend	Melanitta perspicillata
+Grote Zee-eend	Melanitta fusca
+Zwarte Zee-eend	Melanitta nigra
+Amerikaanse Zee-eend	Melanitta americana
+Buffelkopeend	Bucephala albeola
+Brilduiker	Bucephala clangula
+Nonnetje	Mergellus albellus
+Kokardezaagbek	Lophodytes cucullatus
+Grote Zaagbek	Mergus merganser
+Middelste Zaagbek	Mergus serrator
+Harlekijneend	Histrionicus histrionicus
+Bergeend	Tadorna tadorna
+Casarca	Tadorna ferruginea
+Marmereend	Marmaronetta angustirostris
+Krooneend	Netta rufina
+Tafeleend	Aythya ferina
+Amerikaanse Tafeleend	Aythya americana
+Witoogeend	Aythya nyroca
+Ringsnaveleend	Aythya collaris
+Kuifeend	Aythya fuligula
+Topper	Aythya marila
+Kleine Topper	Aythya affinis
+Zomertaling	Spatula querquedula
+Slobeend	Spatula clypeata
+Blauwvleugeltaling	Spatula discors
+Siberische Taling	Sibrionetta formosa
+Bronskopeend	Mareca falcata
+Krakeend	Mareca strepera
+Smient	Mareca penelope
+Amerikaanse Smient	Mareca americana
+Wilde Eend	Anas platyrhynchos
+Pijlstaart	Anas acuta
+Wintertaling	Anas crecca
+Amerikaanse Wintertaling	Anas carolinensis
+Kwartel	Coturnix coturnix
+Korhoen	Tetrao tetrix
+Patrijs	Perdix perdix
+Flamingo	Phoenicopterus roseus
+Dikbekfuut	Podilymbus podiceps
+Dodaars	Tachybaptus ruficollis
+Roodhalsfuut	Podiceps grisegena
+Fuut	Podiceps cristatus
+Kuifduiker	Podiceps auritus
+Geoorde Fuut	Podiceps nigricollis
+Holenduif	Columba oenas
+Houtduif	Columba palumbus
+Zomertortel	Streptopelia turtur
+Oosterse Tortel	Streptopelia orientalis
+Turkse Tortel	Streptopelia decaocto
+Steppehoen	Syrrhaptes paradoxus
+Nachtzwaluw	Caprimulgus europaeus
+Stekelstaartgierzwaluw	Hirundapus caudacutus
+Alpengierzwaluw	Tachymarptis melba
+Siberische Gierzwaluw	Apus pacificus
+Huisgierzwaluw	Apus affinis
+Vale Gierzwaluw	Apus pallidus
+Gierzwaluw	Apus apus
+Kuifkoekoek	Clamator glandarius
+Koekoek	Cuculus canorus
+Waterral	Rallus aquaticus
+Kwartelkoning	Crex crex
+Porseleinhoen	Porzana porzana
+Klein Waterhoen	Zapornia parva
+Kleinst Waterhoen	Zapornia pusilla
+Waterhoen	Gallinula chloropus
+Meerkoet	Fulica atra
+Canadese Kraanvogel	Antigone canadensis
+Jufferkraanvogel	Grus virgo
+Kraanvogel	Grus grus
+Kleine Trap	Tetrax tetrax
+Grote Trap	Otis tarda
+Oostelijke Kraagtrap	Chlamydotis macqueenii
+Roodkeelduiker	Gavia stellata
+Parelduiker	Gavia arctica
+IJsduiker	Gavia immer
+Geelsnavelduiker	Gavia adamsii
+Wilsons Stormvogeltje	Oceanites oceanicus
+Bont Stormvogeltje	Pelagodroma marina
+Stormvogeltje	Hydrobates pelagicus
+Vaal Stormvogeltje	Hydrobates leucorhous
+Noordse Stormvogel	Fulmarus glacialis
+Kuhls Pijlstormvogel	Calonectris borealis
+Grauwe Pijlstormvogel	Ardenna grisea
+Grote Pijlstormvogel	Ardenna gravis
+Noordse Pijlstormvogel	Puffinus puffinus
+Vale Pijlstormvogel	Puffinus mauretanicus
+Zwarte Ooievaar	Ciconia nigra
+Ooievaar	Ciconia ciconia
+Roze Pelikaan	Pelecanus onocrotalus
+Kroeskoppelikaan	Pelecanus crispus
+Roerdomp	Botaurus stellaris
+Woudaap	Ixobrychus minutus
+Kwak	Nycticorax nycticorax
+Groene Reiger	Butorides virescens
+Ralreiger	Ardeola ralloides
+Koereiger	Bubulcus ibis
+Blauwe Reiger	Ardea cinerea
+Purperreiger	Ardea purpurea
+Grote Zilverreiger	Ardea alba
+Kleine Zilverreiger	Egretta garzetta
+Lepelaar	Platalea leucorodia
+Zwarte Ibis	Plegadis falcinellus
+Jan-van-gent	Morus bassanus
+Bruine Gent	Sula leucogaster
+Dwergaalscholver	Microcarbo pygmaeus
+Kuifaalscholver	Phalacrocorax aristotelis
+Aalscholver	Phalacrocorax carbo
+Griel	Burhinus oedicnemus
+Scholekster	Haematopus ostralegus
+Steltkluut	Himantopus himantopus
+Kluut	Recurvirostra avosetta
+Zilverplevier	Pluvialis squatarola
+Goudplevier	Pluvialis apricaria
+Amerikaanse Goudplevier	Pluvialis dominica
+Aziatische Goudplevier	Pluvialis fulva
+Morinelplevier	Charadrius morinellus
+Killdeerplevier	Charadrius vociferus
+Bontbekplevier	Charadrius hiaticula
+Kleine Plevier	Charadrius dubius
+Grijskopkievit	Vanellus cinereus
+Indische Kievit	Vanellus indicus
+Steppekievit	Vanellus gregarius
+Witstaartkievit	Vanellus leucurus
+Kievit	Vanellus vanellus
+Kaspische Plevier	Anarhynchus asiaticus
+Steppeplevier	Anarhynchus veredus
+Woestijnplevier	Anarhynchus leschenaultii
+Strandplevier	Anarhynchus alexandrinus
+Bartrams Ruiter	Bartramia longicauda
+Kleine Regenwulp	Numenius minutus
+Regenwulp	Numenius phaeopus
+Dunbekwulp	Numenius tenuirostris
+Wulp	Numenius arquata
+Grutto	Limosa limosa
+Rosse Grutto	Limosa lapponica
+Steenloper	Arenaria interpres
+Grote Kanoet	Calidris tenuirostris
+Kanoet	Calidris canutus
+Kemphaan	Calidris pugnax
+Siberische Strandloper	Calidris acuminata
+Breedbekstrandloper	Calidris falcinellus
+Krombekstrandloper	Calidris ferruginea
+Steltstrandloper	Calidris himantopus
+Roodkeelstrandloper	Calidris ruficollis
+Taigastrandloper	Calidris subminuta
+Temmincks Strandloper	Calidris temminckii
+Drieteenstrandloper	Calidris alba
+Bonte Strandloper	Calidris alpina
+Paarse Strandloper	Calidris maritima
+Bairds Strandloper	Calidris bairdii
+Kleine Strandloper	Calidris minuta
+Bonapartes Strandloper	Calidris fuscicollis
+Blonde Ruiter	Calidris subruficollis
+Gestreepte Strandloper	Calidris melanotos
+Alaskastrandloper	Calidris mauri
+Grijze Strandloper	Calidris pusilla
+Grote Franjepoot	Phalaropus tricolor
+Grauwe Franjepoot	Phalaropus lobatus
+Rosse Franjepoot	Phalaropus fulicarius
+Terekruiter	Xenus cinereus
+Oeverloper	Actitis hypoleucos
+Amerikaanse Oeverloper	Actitis macularius
+Witgat	Tringa ochropus
+Amerikaanse Bosruiter	Tringa solitaria
+Siberische Grijze Ruiter	Tringa brevipes
+Zwarte Ruiter	Tringa erythropus
+Grote Geelpootruiter	Tringa melanoleuca
+Groenpootruiter	Tringa nebularia
+Kleine Geelpootruiter	Tringa flavipes
+Poelruiter	Tringa stagnatilis
+Bosruiter	Tringa glareola
+Tureluur	Tringa totanus
+Bokje	Lymnocryptes minimus
+Grote Grijze Snip	Limnodromus scolopaceus
+Houtsnip	Scolopax rusticola
+Watersnip	Gallinago gallinago
+Poelsnip	Gallinago media
+Vorkstaartplevier	Glareola pratincola
+Oosterse Vorkstaartplevier	Glareola maldivarum
+Steppevorkstaartplevier	Glareola nordmanni
+Renvogel	Cursorius cursor
+Papegaaiduiker	Fratercula arctica
+Zwarte Zeekoet	Cepphus grylle
+Alk	Alca torda
+Kleine Alk	Alle alle
+Kortbekzeekoet	Uria lomvia
+Zeekoet	Uria aalge
+Kleinste Jager	Stercorarius longicaudus
+Kleine Jager	Stercorarius parasiticus
+Middelste Jager	Stercorarius pomarinus
+Grote Jager	Stercorarius skua
+Drieteenmeeuw	Rissa tridactyla
+Ivoormeeuw	Pagophila eburnea
+Vorkstaartmeeuw	Xema sabini
+Dunbekmeeuw	Chroicocephalus genei
+Kleine Kokmeeuw	Chroicocephalus philadelphia
+Kokmeeuw	Chroicocephalus ridibundus
+Dwergmeeuw	Hydrocoloeus minutus
+Ross' Meeuw	Rhodostethia rosea
+Lachmeeuw	Larus atricilla
+Franklins Meeuw	Larus pipixcan
+Zwartkopmeeuw	Larus melanocephalus
+Audouins Meeuw	Larus audouinii
+Reuzenzwartkopmeeuw	Larus ichthyaetus
+Stormmeeuw	Larus canus
+Ringsnavelmeeuw	Larus delawarensis
+Kleine Mantelmeeuw	Larus fuscus
+Zilvermeeuw	Larus argentatus
+Geelpootmeeuw	Larus michahellis
+Pontische Meeuw	Larus cachinnans
+Thayers Meeuw	Larus thayeri
+Kleine Burgemeester	Larus glaucoides
+Grote Burgemeester	Larus hyperboreus
+Grote Mantelmeeuw	Larus marinus
+Bonte Stern	Onychoprion fuscatus
+Brilstern	Onychoprion anaethetus
+Dwergstern	Sternula albifrons
+Lachstern	Gelochelidon nilotica
+Reuzenstern	Hydroprogne caspia
+Witwangstern	Chlidonias hybrida
+Witvleugelstern	Chlidonias leucopterus
+Zwarte Stern	Chlidonias niger
+Dougalls Stern	Sterna dougallii
+Visdief	Sterna hirundo
+Noordse Stern	Sterna paradisaea
+Forsters Stern	Sterna forsteri
+Sierlijke Stern	Sterna elegans
+Grote Stern	Sterna sandvicensis
+Amerikaanse Grote Stern	Sterna acuflavida
+Visarend	Pandion haliaetus
+Grijze Wouw	Elanus caeruleus
+Wespendief	Pernis apivorus
+Aasgier	Neophron percnopterus
+Slangenarend	Circaetus gallicus
+Vale Gier	Gyps fulvus
+Monniksgier	Aegypius monachus
+Schreeuwarend	Clanga pomarina
+Bastaardarend	Clanga clanga
+Dwergarend	Aquila pennata
+Steppearend	Aquila nipalensis
+Spaanse Keizerarend	Aquila adalberti
+Keizerarend	Aquila heliaca
+Steenarend	Aquila chrysaetos
+Havikarend	Aquila fasciata
+Bruine Kiekendief	Circus aeruginosus
+Blauwe Kiekendief	Circus cyaneus
+Steppekiekendief	Circus macrourus
+Grauwe Kiekendief	Circus pygargus
+Sperwer	Accipiter nisus
+Havik	Accipiter gentilis
+Zeearend	Haliaeetus albicilla
+Rode Wouw	Milvus milvus
+Zwarte Wouw	Milvus migrans
+Ruigpootbuizerd	Buteo lagopus
+Buizerd	Buteo buteo
+Arendbuizerd	Buteo rufinus
+Kerkuil	Tyto alba
+Sperweruil	Surnia ulula
+Dwerguil	Glaucidium passerinum
+Steenuil	Athene vidalii
+Ruigpootuil	Aegolius funereus
+Dwergooruil	Otus scops
+Ransuil	Asio otus
+Velduil	Asio flammeus
+Bosuil	Strix aluco
+Sneeuwuil	Bubo scandiacus
+Oehoe	Bubo bubo
+Hop	Upupa epops
+Bijeneter	Merops apiaster
+Groene Bijeneter	Merops persicus
+Scharrelaar	Coracias garrulus
+IJsvogel	Alcedo atthis
+Bandijsvogel	Megaceryle alcyon
+Draaihals	Jynx torquilla
+Grijskopspecht	Picus canus
+Groene Specht	Picus viridis
+Zwarte Specht	Dryocopus martius
+Middelste Bonte Specht	Dendropicos medius
+Grote Bonte Specht	Dendrocopos major
+Kleine Bonte Specht	Dryobates minor
+Kleine Torenvalk	Falco naumanni
+Torenvalk	Falco tinnunculus
+Roodpootvalk	Falco vespertinus
+Eleonora's Valk	Falco eleonorae
+Smelleken	Falco columbarius
+Boomvalk	Falco subbuteo
+Sakervalk	Falco cherrug
+Giervalk	Falco rusticolus
+Slechtvalk	Falco peregrinus
+Roodoogvireo	Vireo olivaceus
+Wielewaal	Oriolus oriolus
+Bruine Klauwier	Lanius cristatus
+Grauwe Klauwier	Lanius collurio
+Turkestaanse Klauwier	Lanius phoenicuroides
+Daurische Klauwier	Lanius isabellinus
+Langstaartklauwier	Lanius schach
+Kleine Klapekster	Lanius minor
+Klapekster	Lanius excubitor
+Maskerklauwier	Lanius nubicus
+Roodkopklauwier	Lanius senator
+Ekster	Pica pica
+Gaai	Garrulus glandarius
+Notenkraker	Nucifraga caryocatactes
+Kauw	Corvus monedula
+Daurische Kauw	Corvus dauuricus
+Roek	Corvus frugilegus
+Zwarte Kraai	Corvus corone
+Bonte Kraai	Corvus cornix
+Raaf	Corvus corax
+Goudhaan	Regulus regulus
+Vuurgoudhaan	Regulus ignicapilla
+Buidelmees	Remiz pendulinus
+Pimpelmees	Cyanistes caeruleus
+Koolmees	Parus major
+Kuifmees	Lophophanes cristatus
+Zwarte Mees	Periparus ater
+Matkop	Poecile montanus
+Glanskop	Poecile palustris
+Baardman	Panurus biarmicus
+Boomleeuwerik	Lullula arborea
+Veldleeuwerik	Alauda arvensis
+Kuifleeuwerik	Galerida cristata
+Strandleeuwerik	Eremophila flava
+Kortteenleeuwerik	Calandrella brachydactyla
+Bergkalanderleeuwerik	Melanocorypha bimaculata
+Kalanderleeuwerik	Melanocorypha calandra
+Oeverzwaluw	Riparia riparia
+Rotszwaluw	Ptyonoprogne rupestris
+Boerenzwaluw	Hirundo rustica
+Huiszwaluw	Delichon urbicum
+Roodstuitzwaluw	Cecropis daurica
+Cetti's Zanger	Cettia cetti
+Staartmees	Aegithalos caudatus
+Kroonboszanger	Phylloscopus coronatus
+Groene Fitis	Phylloscopus nitidus
+Swinhoes Boszanger	Phylloscopus plumbeitarsus
+Grauwe Fitis	Phylloscopus trochiloides
+Noordse Boszanger	Phylloscopus borealis
+Pallas' Boszanger	Phylloscopus proregulus
+Bladkoning	Phylloscopus inornatus
+Humes Bladkoning	Phylloscopus humei
+Raddes Boszanger	Phylloscopus schwarzi
+Bruine Boszanger	Phylloscopus fuscatus
+Bergfluiter	Phylloscopus bonelli
+Balkanbergfluiter	Phylloscopus orientalis
+Fluiter	Phylloscopus sibilatrix
+Tjiftjaf	Phylloscopus collybita
+Siberische Tjiftjaf	Phylloscopus tristis
+Iberische Tjiftjaf	Phylloscopus ibericus
+Fitis	Phylloscopus trochilus
+Zwartkop	Sylvia atricapilla
+Tuinfluiter	Sylvia borin
+Afrikaanse Woestijngrasmus	Sylvia deserti
+Woestijngrasmus	Sylvia nana
+Sperwergrasmus	Sylvia nisoria
+Braamsluiper	Sylvia curruca
+Westelijke Orpheusgrasmus	Sylvia hortensis
+Kleine Zwartkop	Sylvia melanocephala
+Grasmus	Sylvia communis
+Westelijke Baardgrasmus	Sylvia inornata
+Balkanbaardgrasmus	Sylvia cantillans
+Brilgrasmus	Sylvia conspicillata
+Provençaalse Grasmus	Sylvia undata
+Siberische Sprinkhaanzanger	Locustella certhiola
+Kleine Sprinkhaanzanger	Locustella lanceolata
+Sprinkhaanzanger	Locustella naevia
+Krekelzanger	Locustella fluviatilis
+Snor	Locustella luscinioides
+Grote Vale Spotvogel	Hippolais languida
+Spotvogel	Hippolais icterina
+Orpheusspotvogel	Hippolais polyglotta
+Kleine Spotvogel	Iduna caligata
+Sykes' Spotvogel	Iduna rama
+Grote Karekiet	Acrocephalus arundinaceus
+Veldrietzanger	Acrocephalus agricola
+Struikrietzanger	Acrocephalus dumetorum
+Bosrietzanger	Acrocephalus palustris
+Kleine Karekiet	Acrocephalus scirpaceus
+Waterrietzanger	Acrocephalus paludicola
+Rietzanger	Acrocephalus schoenobaenus
+Zwartkoprietzanger	Acrocephalus melanopogon
+Graszanger	Cisticola juncidis
+Pestvogel	Bombycilla garrulus
+Rotskruiper	Tichodroma muraria
+Boomklever	Sitta europaea
+Taigaboomkruiper	Certhia familiaris
+Boomkruiper	Certhia brachydactyla
+Winterkoning	Nannus troglodytes
+Spotlijster	Mimus polyglottos
+Daurische Spreeuw	Agropsar sturninus
+Roze Spreeuw	Pastor roseus
+Spreeuw	Sturnus vulgaris
+Waterspreeuw	Cinclus cinclus
+Goudlijster	Zoothera aurea
+Grijswangdwerglijster	Catharus minimus
+Siberische Lijster	Geokichla sibirica
+Beflijster	Turdus torquatus
+Merel	Turdus merula
+Vale Lijster	Turdus obscurus
+Bruine Lijster	Turdus eunomus
+Zwartkeellijster	Turdus atrogularis
+Kramsvogel	Turdus pilaris
+Zanglijster	Turdus philomelos
+Koperwiek	Turdus iliacus
+Grote Lijster	Turdus viscivorus
+Roodborstlijster	Turdus migratorius
+Rosse Waaierstaart	Cercotrichas galactotes
+Grauwe Vliegenvanger	Muscicapa striata
+Roodborst	Erithacus rubecula
+Noordse Nachtegaal	Luscinia luscinia
+Nachtegaal	Luscinia megarhynchos
+Blauwborst	Luscinia svecica
+Roodkeelnachtegaal	Calliope calliope
+Blauwstaart	Tarsiger cyanurus
+Perzische Roodborst	Irania gutturalis
+Zwarte Roodstaart	Phoenicurus ochruros
+Gekraagde Roodstaart	Phoenicurus phoenicurus
+Rode Rotslijster	Monticola saxatilis
+Blauwe Rotslijster	Monticola solitarius
+Kleine Vliegenvanger	Ficedula parva
+Withalsvliegenvanger	Ficedula albicollis
+Bonte Vliegenvanger	Ficedula hypoleuca
+Paapje	Saxicola rubetra
+Roodborsttapuit	Saxicola rubicola
+Aziatische Roodborsttapuit	Saxicola maurus
+Stejnegers Roodborsttapuit	Saxicola stejnegeri
+Tapuit	Oenanthe oenanthe
+Seebohms Tapuit	Oenanthe seebohmi
+Izabeltapuit	Oenanthe isabellina
+Woestijntapuit	Oenanthe deserti
+Westelijke Blonde Tapuit	Oenanthe hispanica
+Oostelijke Blonde Tapuit	Oenanthe melanoleuca
+Bonte Tapuit	Oenanthe pleschanka
+Alpenheggenmus	Prunella collaris
+Heggenmus	Prunella modularis
+Bergheggenmus	Prunella montanella
+Huismus	Passer domesticus
+Spaanse Mus	Passer hispaniolensis
+Ringmus	Passer montanus
+Engelse Kwikstaart	Motacilla flavissima
+Gele Kwikstaart	Motacilla flava
+Noordse Kwikstaart	Motacilla thunbergi
+Balkankwikstaart	Motacilla feldegg
+Citroenkwikstaart	Motacilla citreola
+Grote Gele Kwikstaart	Motacilla cinerea
+Witte Kwikstaart	Motacilla alba
+Rouwkwikstaart	Motacilla yarrellii
+Grote Pieper	Anthus richardi
+Mongoolse Pieper	Anthus godlewskii
+Duinpieper	Anthus campestris
+Siberische Boompieper	Anthus hodgsoni
+Boompieper	Anthus trivialis
+Graspieper	Anthus pratensis
+Roodkeelpieper	Anthus cervinus
+Oeverpieper	Anthus petrosus
+Waterpieper	Anthus spinoletta
+Keep	Fringilla montifringilla
+Vink	Fringilla coelebs
+Appelvink	Coccothraustes coccothraustes
+Roodmus	Erythrina erythrina
+Haakbek	Pinicola enucleator
+Goudvink	Pyrrhula pyrrhula
+Woestijnvink	Bucanetes githagineus
+Groenling	Chloris chloris
+Kneu	Linaria cannabina
+Frater	Linaria flavirostris
+Kleine Barmsijs	Acanthis cabaret
+Grote Barmsijs	Acanthis flammea
+Witstuitbarmsijs	Acanthis hornemanni
+Witbandkruisbek	Loxia leucoptera
+Kruisbek	Loxia curvirostra
+Grote Kruisbek	Loxia pytyopsittacus
+Putter	Carduelis carduelis
+Europese Kanarie	Serinus serinus
+Sijs	Spinus spinus
+Sneeuwgors	Plectrophenax nivalis
+IJsgors	Calcarius lapponicus
+Zanggors	Melospiza melodia
+Witkeelgors	Zonotrichia albicollis
+Grijze Junco	Junco hyemalis
+Bruinkopgors	Emberiza bruniceps
+Zwartkopgors	Emberiza melanocephala
+Grauwe Gors	Emberiza calandra
+Grijze Gors	Emberiza cia
+Steenortolaan	Emberiza buchanani
+Bruinkeelortolaan	Emberiza caesia
+Ortolaan	Emberiza hortulana
+Cirlgors	Emberiza cirlus
+Geelgors	Emberiza citrinella
+Witkopgors	Emberiza leucocephalos
+Rietgors	Emberiza schoeniclus
+Wilgengors	Emberiza aureola
+Rosse Gors	Emberiza rutila
+Geelbrauwgors	Emberiza chrysophrys
+Dwerggors	Emberiza pusilla
+Bosgors	Emberiza rustica
+Maskergors	Emberiza spodocephala
+Glanstroepiaal	Quiscalus quiscula
+Geelkoptroepiaal	Xanthocephalus xanthocephalus
+Baltimoretroepiaal	Icterus galbula
+Noordse Waterlijster	Parkesia noveboracensis
+Mirtezanger	Setophaga coronata
