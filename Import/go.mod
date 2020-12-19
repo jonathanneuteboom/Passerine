@@ -1,4 +1,4 @@
-module github.com/jonathanneuteboom/passerine/importer
+module github.com/jonathanneuteboom/Passerine/Importer
 
 go 1.15
 
